@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WendelSimoes
-- 👀 I’m interested in Web Programming and Gaming Programming
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning React and Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - wendel.simoes.br@gmail.com
